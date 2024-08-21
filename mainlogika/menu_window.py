@@ -1,6 +1,6 @@
 #Файл, в я кому відтворено інтерфкйс меню
-from  PyQt5.QtCore import*
-from PyQt5.QtWidgets import*
+from PySide6.QtCore import *
+from PySide6.QtWidgets import*
 
 window_menu = QWidget() # вікно меню
 window_menu_layout = QVBoxLayout() # лайаут два вікна меню

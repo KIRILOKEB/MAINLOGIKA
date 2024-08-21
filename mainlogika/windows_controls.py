@@ -1,5 +1,5 @@
-from PyQt5.QtCore import *
-from PyQt5.QtWidgets import*
+from PySide6.QtCore import *
+from PySide6.QtWidgets import*
 from main_window import *
 from menu_window import *
 from question_controller import *

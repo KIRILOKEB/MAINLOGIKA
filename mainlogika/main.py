@@ -1,6 +1,6 @@
 #Головний екран
-from  PyQt5.QtCore import*
-from PyQt5.QtWidgets import*
+from PySide6.QtCore import *
+from PySide6.QtWidgets import*
 from app import app
 from main_window import window_main
 from menu_window import window_menu

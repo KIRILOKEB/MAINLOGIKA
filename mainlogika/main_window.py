@@ -1,6 +1,6 @@
 #ФАЙЛ В ЯКОМУ ПРОГРАМИ. ВІН ЗАПУСКАЄ ЇЇ
-from  PyQt5.QtCore import*
-from PyQt5.QtWidgets import*
+from PySide6.QtCore import *
+from PySide6.QtWidgets import*
 
 window_main = QWidget() #вікно головного окна
 window_main_layout = QVBoxLayout() # для вікна головного меню
